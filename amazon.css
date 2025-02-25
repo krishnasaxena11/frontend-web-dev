@@ -1,0 +1,264 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+}
+.ha
+{
+    background-color: black;
+    border: 0px;
+    height: 60px;
+    display: flex;
+
+}
+.nav
+{
+    height: 45px;
+    width: auto;
+    margin-top: 6px;
+    color: black;
+    font-size: 15px;
+    font-family: inherit;
+    background-color: darkorange;
+    border-top-left-radius: 10px ;
+    border-bottom-left-radius: 10px ;
+    border-right: transparent;
+    cursor: pointer;
+    padding: 0%;
+    border: 5px;
+    border-color: black;
+    margin-left: 20px;
+    text-align: center;
+
+}
+.search1
+{
+    height: 44px;
+    margin-top: 7px;
+    border-color: transparent;
+    width: 825px;
+    text-align: left;
+    margin-left: 0%;
+    margin-right: 0%;
+    border: 0px;
+    font-size: 20px;
+    font-style: inherit;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+
+
+}
+.button1
+{
+    margin-left: 0px;
+    background-image: url("Screenshot 2025-02-25 131153.png") ;   
+ background-size: cover;
+ height: 44px;
+ width: 45px;
+ margin-top: 7px;
+ margin-right: 20px;
+    
+
+}
+option
+{
+    border: 2px;
+    border-color: black;
+    border-radius: 50x;
+}
+img:hover
+{
+ border: 1px solid white;   
+}
+.nav2
+{
+    background-color: rgb(18, 37, 56);
+    color: aliceblue;
+    font-size: large;
+    display: flex;
+    text-align: center;
+}
+.navt
+{
+    text-align: center;
+    
+    
+    display: flex;
+
+
+}
+.text1
+{
+    padding: 10px;
+}
+.text1:hover
+{
+    border: 1px solid white;   
+}
+.slide
+{
+    width: 200px;
+    margin-bottom: 0px;
+}
+.main
+{
+    background-color:white;
+    height: 1500px;
+    margin-top: 0px;
+
+}
+.con1
+{
+ margin: 5px;
+ height: 400px;
+ width: 400px;
+ border-color: black;
+ border-radius: 20px;
+ background-image: url("Screenshot 2025-02-25 153117.png") ;   
+ background-size: cover;
+ background-color: black;
+ transition-property: all;
+transition-duration: 1s;
+transition-timing-function: linear;
+ 
+}
+.con
+{
+ margin: 5px;
+ height: 400px;
+ width: 400px;
+ border-color: black;
+ border-radius: 20px;
+ background-image: url("Screenshot 2025-02-25 153110.png") ;   
+ background-size: cover;
+ background-color: black;
+ transition-property: all;
+transition-duration: 1s;
+transition-timing-function: linear;
+ 
+}
+
+.con2
+{
+ margin: 5px;
+ height: 400px;
+ width: 400px;
+ border-color: black;
+ border-radius: 20px;
+ background-image: url("Screenshot 2025-02-25 153056.png") ;   
+ background-size: cover;
+ background-color: black;
+ transition-property: all;
+transition-duration: 1s;
+transition-timing-function: linear;
+ 
+}
+.con3
+{
+ margin: 5px;
+ height: 400px;
+ width: 400px;
+ border-color: black;
+ border-radius: 20px;
+ background-image: url("Screenshot 2025-02-25 153049.png") ;   
+ background-size: cover;
+ background-color: black;
+ transition-property: all;
+transition-duration: 1s;
+transition-timing-function: linear;
+}
+.con4
+{
+ margin: 5px;
+ height: 400px;
+ width: 400px;
+ border-color: black;
+ border-radius: 20px;
+ background-image: url("Screenshot 2025-02-25 153040.png") ;   
+ background-size: cover;
+ background-color: black;
+ transition-property: all;
+transition-duration:  1s;
+transition-timing-function: linear;
+ 
+}
+
+.con5
+{
+ margin: 5px;
+ height: 400px;
+ width: 400px;
+ border-color: black;
+ border-radius: 20px;
+ background-image: url("Screenshot 2025-02-25 153515.png") ;   
+ background-size: cover;
+ background-color: black;
+ transition-property: all;
+transition-duration: 1s;
+transition-timing-function: linear;
+}
+.con6
+{
+ margin: 5px;
+ height: 400px;
+ width: 400px;
+ border-color: black;
+ border-radius: 20px;
+ background-image: url("Screenshot 2025-02-25 153508.png");
+ background-size: cover;
+ background-color: black;
+ transition-property: all;
+transition-duration: 1s;
+transition-timing-function: linear;
+}
+.con7
+{
+ margin: 5px;
+ height: 400px;
+ width: 400px;
+ border-color: black;
+ border-radius: 20px;
+ background-image: url("Screenshot 2025-02-25 153503.png") ;   
+ background-size: cover;
+ background-color: black; 
+ transition-property: all;
+transition-duration: 1s;
+transition-timing-function: linear;
+}
+
+.m
+{
+    display: flex;
+}
+.con:hover
+{
+ transform: scale(1.05);   
+}
+.con1:hover
+{
+ transform: scale(1.05);   
+}
+.con2:hover
+{
+ transform: scale(1.05);   
+}
+.con3:hover
+{
+ transform: scale(1.05);   
+}
+.con4:hover
+{
+ transform: scale(1.05);   
+}
+.con5:hover
+{
+ transform: scale(1.05);   
+}
+.con6:hover
+{
+ transform: scale(1.05);   
+}
+.con7:hover
+{
+ transform: scale(1.05);   
+}
